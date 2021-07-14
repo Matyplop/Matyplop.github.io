@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-14T02:33:08.535Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="CTYNCRDOgYdlZKSmg6yW" version="14.8.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-07-14T02:36:58.604Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="Q-JtGmEFUAhooot7sTzB" version="14.8.6" type="github" pages="2">
   <diagram id="fj6QsGLIF5zpcB3G1yky" name="4 Números">
     <mxGraphModel dx="1420" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -9,7 +9,7 @@
             <mxPoint x="210" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PK90AZNPbYMcKVVDFPUc-2" value="4 numeros" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="PK90AZNPbYMcKVVDFPUc-1" vertex="1">
+        <mxCell id="PK90AZNPbYMcKVVDFPUc-2" value="4 números" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="PK90AZNPbYMcKVVDFPUc-1" vertex="1">
           <mxGeometry x="150" y="10" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PK90AZNPbYMcKVVDFPUc-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="PK90AZNPbYMcKVVDFPUc-1" source="PK90AZNPbYMcKVVDFPUc-4" target="PK90AZNPbYMcKVVDFPUc-6" edge="1">
@@ -17,7 +17,7 @@
             <mxPoint x="210" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PK90AZNPbYMcKVVDFPUc-4" value="ingresar 4 numeros" style="rounded=0;whiteSpace=wrap;html=1;" parent="PK90AZNPbYMcKVVDFPUc-1" vertex="1">
+        <mxCell id="PK90AZNPbYMcKVVDFPUc-4" value="Ingresar 4 números" style="rounded=0;whiteSpace=wrap;html=1;" parent="PK90AZNPbYMcKVVDFPUc-1" vertex="1">
           <mxGeometry x="150" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PK90AZNPbYMcKVVDFPUc-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="PK90AZNPbYMcKVVDFPUc-1" source="PK90AZNPbYMcKVVDFPUc-6" edge="1">
