@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-14T23:46:32.678Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="HJHvfywZAEfb5lH6bUub" version="14.8.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-07-14T23:46:53.946Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="WHbWC0RQKervEtz05Iy3" version="14.8.6" type="github" pages="2">
   <diagram id="fj6QsGLIF5zpcB3G1yky" name="4 Números">
-    <mxGraphModel dx="1420" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1102" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="PK90AZNPbYMcKVVDFPUc-0" />
         <mxCell id="PK90AZNPbYMcKVVDFPUc-1" parent="PK90AZNPbYMcKVVDFPUc-0" />
@@ -108,7 +108,7 @@
             <mxPoint x="490" y="675" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DrQtlhYqOjxopu18fMue-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="PK90AZNPbYMcKVVDFPUc-1" source="PK90AZNPbYMcKVVDFPUc-38" target="DrQtlhYqOjxopu18fMue-3" edge="1">
+        <mxCell id="DrQtlhYqOjxopu18fMue-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="PK90AZNPbYMcKVVDFPUc-1" source="PK90AZNPbYMcKVVDFPUc-38" target="DrQtlhYqOjxopu18fMue-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="375" y="780" as="targetPoint" />
           </mxGeometry>
@@ -116,10 +116,10 @@
         <mxCell id="PK90AZNPbYMcKVVDFPUc-38" value="D es mayor que&amp;nbsp;&lt;br&gt;A , B Y C?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="PK90AZNPbYMcKVVDFPUc-1" vertex="1">
           <mxGeometry x="300" y="620" width="150" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="DrQtlhYqOjxopu18fMue-1" value="Ingresar 4 &lt;br&gt;números" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="PK90AZNPbYMcKVVDFPUc-1" vertex="1">
+        <mxCell id="DrQtlhYqOjxopu18fMue-1" value="Ingresar 4 &lt;br&gt;números" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="PK90AZNPbYMcKVVDFPUc-1">
           <mxGeometry x="150" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DrQtlhYqOjxopu18fMue-3" value="Finaliza proceso" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="PK90AZNPbYMcKVVDFPUc-1" vertex="1">
+        <mxCell id="DrQtlhYqOjxopu18fMue-3" value="Finaliza proceso" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="PK90AZNPbYMcKVVDFPUc-1">
           <mxGeometry x="315" y="780" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-7MBrO1tYnKpxbmTSbQL-1" value="A es mayor" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="PK90AZNPbYMcKVVDFPUc-1">
@@ -138,7 +138,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="j3VicT8K_rTtAJutuKS0" name="Canal Premium">
-    <mxGraphModel dx="1420" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1102" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="UEj_flshiFNKeRk_OgfW-0" />
         <mxCell id="UEj_flshiFNKeRk_OgfW-1" parent="UEj_flshiFNKeRk_OgfW-0" />
